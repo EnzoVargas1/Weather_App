@@ -1,0 +1,86 @@
+body{
+    background-color:#1C9CF6;
+    font-family: 'Jura', sans-serif;
+}
+
+.title{
+    position: absolute;
+    right: 400px;
+    top: 115px;
+    left: 400px;
+    bottom: 550px;
+    color: white;
+    /**border: 2px solid white;**/
+
+}
+
+.container{
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 175px 0;
+    width: 50%;
+    /**border: 2px solid white;**/
+    text-align: center;
+}
+
+.location{
+    color: white;
+}
+
+#number{
+    color: white;
+}
+
+.temperature{
+    color: white;
+}
+
+#degree{
+    color: white;
+    text-transform: uppercase;
+
+}
+
+#forecast{
+    color: white;
+}
+
+.hourlyForecast{
+    color: white;
+    margin: 0 auto;
+    padding: 120px 0;
+   
+}
+
+.square{
+    /**border: 3px solid white;**/
+    width:16.662%;
+    padding-top:2px;
+    padding-bottom: 8.35%;
+    padding-left: 10%;
+    float: left;
+    margin-top: -8.35%;
+     
+} 
+
+#time{
+    padding-top: 400px;
+    position: relative;
+    right:35px;
+    text-align: left;
+}
+
+#display{
+    padding-top: 400px;
+    position: relative;
+    right:35px;
+    text-align: left;
+}
+
+
+#temp{
+    padding-top: 400px;
+    position: relative;
+    right:35px;
+    text-align: left;
+}
